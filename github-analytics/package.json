@@ -1,0 +1,10 @@
+{
+  "name": "github-analytics",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "node-github": "^0.0.3"
+  },
+  "devDependencies": {}
+}
